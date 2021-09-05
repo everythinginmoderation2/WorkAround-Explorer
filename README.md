@@ -1,5 +1,5 @@
 # WorkAround-Explorer
-A a new web application used to make data on salary trends viewer friendly.
+A web application used to view salary trend data.
 
 WorkAround is a fictional research organization that provides data on salary trends in the tech industry.
 
